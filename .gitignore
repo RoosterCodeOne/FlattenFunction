@@ -1,0 +1,10 @@
+# macOS system file
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.txt
+logs/
